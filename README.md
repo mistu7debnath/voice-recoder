@@ -26,7 +26,7 @@ Auto file naming with timestamp
 Noise reduction and filters
 Multiple audio format support
 
-support
+
 
 👩‍💻 Author
 
