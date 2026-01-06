@@ -57,7 +57,11 @@ Noise reduction and audio filters
 Support for multiple audio formats
 ---
 
+👩‍💻 Author
 
+Manisha Debnath
+Student Developer | Python Enthusiast
+---
 
 ## ▶️ **How to Run the Project**
 
