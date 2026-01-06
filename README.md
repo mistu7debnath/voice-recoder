@@ -37,19 +37,20 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 - **Support for multiple audio formats**
 
 ---
-
 ## 👩‍💻 **Author**
 **Manisha Debnath**  
 **Student Developer | Python Enthusiast**
 
+---
 
-##⚙️ **Requirements**
+## ⚙️ **Requirements**
+- **Python 3 installed on your system**
 
-**Python installed on your system**
+### 📦 **Required Libraries**
+Install the dependencies using:
+```bash
+pip install sounddevice scipy
 
-## **Required libraries:**
-
-**pip install sounddevice scipy**
 
 
 ---
