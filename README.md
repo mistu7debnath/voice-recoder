@@ -34,3 +34,14 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 Open your terminal and run:
 ```bash
 git clone https://github.com/mistu7debnath/voice-recoder.git
+
+---
+
+
+🔹 Step 2: Navigate to the Project Directory
+bash
+Copy code
+cd voice-recorder
+---
+
+
