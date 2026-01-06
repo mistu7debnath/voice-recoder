@@ -28,6 +28,18 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 
 ---
 
+
+🎤 Recording Process
+Speak into the microphone
+
+Recording automatically stops after 10 seconds
+
+Audio is saved as Output.wav
+
+---
+
+
+
 ## ▶️ **How to Run the Project**
 
 ### 🔹 Step 1: Clone the Repository
@@ -56,12 +68,6 @@ python recorder.py
 ---
 
 
-🎤 Recording Process
-Speak into the microphone
-
-Recording automatically stops after 10 seconds
-
-Audio is saved as Output.wav
 
 
 
