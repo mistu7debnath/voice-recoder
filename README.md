@@ -20,3 +20,17 @@ Python 3
 sounddevice – for audio recording
 
 scipy – for saving WAV files
+
+
+
+🚀 Future Enhancements
+Graphical User Interface (GUI)
+
+Pause and resume recording
+
+Auto file naming with timestamp
+
+Noise reduction and filters
+
+Multiple audio format support
+
