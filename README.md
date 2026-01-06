@@ -44,7 +44,7 @@ Audio is saved as Output.wav
 ---
 
 
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 Graphical User Interface (GUI)
 
@@ -57,7 +57,7 @@ Noise reduction and audio filters
 Support for multiple audio formats
 ---
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Manisha Debnath
 Student Developer | Python Enthusiast
