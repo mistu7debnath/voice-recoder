@@ -34,3 +34,10 @@ Noise reduction and filters
 
 Multiple audio format support
 
+support
+
+👩‍💻 Author
+
+Manisha Debnath
+Student Developer | Python Enthusiast
+
