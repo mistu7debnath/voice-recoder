@@ -53,5 +53,15 @@ pip install sounddevice scipy
 bash
 Copy code
 python recorder.py
+---
+
+
+🎤 Recording Process
+Speak into the microphone
+
+Recording automatically stops after 10 seconds
+
+Audio is saved as Output.wav
+
 
 
