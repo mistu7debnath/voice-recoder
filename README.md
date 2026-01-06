@@ -9,25 +9,21 @@ High-quality sound recording (44.1 kHz sample rate)
 Customizable recording duration
 Beginner-friendly and lightweight project
 
+
 🛠️ Technologies Used
 
 Python 3
-
 sounddevice – for audio recording
-
 scipy – for saving WAV files
 
 
 
 🚀 Future Enhancements
+
 Graphical User Interface (GUI)
-
 Pause and resume recording
-
 Auto file naming with timestamp
-
 Noise reduction and filters
-
 Multiple audio format support
 
 support
