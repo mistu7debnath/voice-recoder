@@ -43,7 +43,6 @@ Audio is saved as Output.wav
 
 ---
 
-microphone
 
 🚀 Future Enhancements
 
