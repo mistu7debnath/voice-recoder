@@ -3,7 +3,7 @@
 A simple and efficient Python voice recorder that captures audio from your system microphone and saves it as a WAV file using Python libraries.
 
 
-Key Features
+Key Features:
 Records real-time audio from microphone
 High-quality sound recording (44.1 kHz sample rate)
 Customizable recording duration
