@@ -43,6 +43,21 @@ Audio is saved as Output.wav
 
 ---
 
+microphone
+
+🚀 Future Enhancements
+
+Graphical User Interface (GUI)
+
+Pause & Resume recording
+
+Automatic file naming with timestamps
+
+Noise reduction and audio filters
+
+Support for multiple audio formats
+---
+
 
 
 ## ▶️ **How to Run the Project**
