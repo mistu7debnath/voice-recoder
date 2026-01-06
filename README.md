@@ -46,4 +46,12 @@ cd voice-recorder
 
 🔹 Step 3: Install Required Libraries
 pip install sounddevice scipy
+---
+
+
+🔹 Step 4: Run the Python Script
+bash
+Copy code
+python recorder.py
+
 
