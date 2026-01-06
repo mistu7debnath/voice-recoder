@@ -26,41 +26,11 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 - **Waits until recording completes**
 - **Exports the audio** as `Output.wav`
 
-
 ---
 
-## 🚀 **Future Enhancements**
-- **Graphical User Interface (GUI)**
-- **Pause & Resume recording**
-- **Automatic file naming with timestamps**
-- **Noise reduction and audio filters**
-- **Support for multiple audio formats**
-
----
-## 👩‍💻 **Author**
-**Manisha Debnath**  
-**Student Developer | Python Enthusiast**
-
----
 ## ▶️ **How to Run the Project**
 
 ### 🔹 Step 1: Clone the Repository
 Open your terminal and run:
 ```bash
 git clone https://github.com/mistu7debnath/voice-recoder.git
-
----
-
-## ⚙️ **Requirements**
-- **Python 3 installed on your system**
-
-### 📦 **Required Libraries**
-Install the dependencies using:
-```bash
-pip install sounddevice scipy
-
-
-
----
-
-⭐ **Thank you for visiting my repository !**
