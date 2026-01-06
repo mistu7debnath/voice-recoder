@@ -9,3 +9,4 @@ Records real-time audio from microphone
 High-quality sound recording (44.1 kHz sample rate)
 
 Customizable recording duration
+Beginner-friendly and lightweight project
