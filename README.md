@@ -43,4 +43,4 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 
 ---
 
-⭐ **If you like this project, don’t forget to star the repository!**
+⭐ **Thank you !**
