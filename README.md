@@ -51,6 +51,11 @@ Install the dependencies using:
 ```bash
 pip install sounddevice scipy
 
+## ▶️ **How to Run the Project**
+
+### 🔹 Step 1: Clone the Repository
+```bash
+git clone https://github.com/mistu7debnath/voice-recoder.git
 
 
 ---
