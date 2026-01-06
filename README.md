@@ -47,11 +47,8 @@ Audio is saved as Output.wav
 **🚀 Future Enhancements**
 
 Graphical User Interface (GUI)
-
 Pause & Resume recording
-
 Automatic file naming with timestamps
-
 Noise reduction and audio filters
 
 Support for multiple audio formats
