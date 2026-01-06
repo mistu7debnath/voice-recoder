@@ -28,15 +28,13 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 
 ---
 
-⚙️ Requirements
+**⚙️ Requirements**
 
 Python 3 installed on your system
-
-Working microphone
 ---
 
 
-🎤 Recording Process
+**🎤 Recording Process**
 Speak into the microphone
 
 Recording automatically stops after 10 seconds
