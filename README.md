@@ -9,8 +9,6 @@ High-quality sound recording (44.1 kHz sample rate)
 Customizable recording duration
 Beginner-friendly and lightweight project
 
-project
-
 🛠️ Technologies Used
 
 Python 3
