@@ -42,6 +42,14 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 **Student Developer | Python Enthusiast**
 
 ---
+## ▶️ **How to Run the Project**
+
+### 🔹 Step 1: Clone the Repository
+Open your terminal and run:
+```bash
+git clone https://github.com/mistu7debnath/voice-recoder.git
+
+---
 
 ## ⚙️ **Requirements**
 - **Python 3 installed on your system**
@@ -51,11 +59,6 @@ Install the dependencies using:
 ```bash
 pip install sounddevice scipy
 
-## ▶️ **How to Run the Project**
-
-### 🔹 Step 1: Clone the Repository
-```bash
-git clone https://github.com/mistu7debnath/voice-recoder.git
 
 
 ---
