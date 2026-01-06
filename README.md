@@ -11,15 +11,13 @@ Beginner-friendly and lightweight project
 
 
 🛠️ Technologies Used
-
 Python 3
 sounddevice – for audio recording
 scipy – for saving WAV files
 
 
 
-🚀 Future Enhancements
-
+🚀 Future Enhancements:
 Graphical User Interface (GUI)
 Pause and resume recording
 Auto file naming with timestamp
@@ -28,8 +26,7 @@ Multiple audio format support
 
 
 
-👩‍💻 Author
-
+👩‍💻 Author:
 Manisha Debnath
 Student Developer | Python Enthusiast
 
