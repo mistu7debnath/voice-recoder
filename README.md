@@ -44,4 +44,6 @@ Copy code
 cd voice-recorder
 ---
 
+🔹 Step 3: Install Required Libraries
+pip install sounddevice scipy
 
