@@ -35,11 +35,11 @@ Python 3 installed on your system
 
 
 **🎤 Recording Process:**
-Speak into the microphone
+**Speak into the microphone**
 
-Recording automatically stops after 10 seconds
+**Recording automatically stops after 10 seconds**
 
-Audio is saved as Output.wav
+**Audio is saved as Output.wav**
 
 ---
 
