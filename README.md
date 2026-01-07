@@ -20,7 +20,7 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 
 ---
 
-## ⚙️ **How It Works**
+## ⚙️ **How It Works:**
 - **Sets the sample rate** for clear audio quality  
 - **Records audio for a fixed duration**
 - **Waits until recording completes**
@@ -28,13 +28,13 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 
 ---
 
-**⚙️ Requirements**
+**⚙️ Requirements:**
 
 Python 3 installed on your system
 ---
 
 
-**🎤 Recording Process**
+**🎤 Recording Process:**
 Speak into the microphone
 
 Recording automatically stops after 10 seconds
@@ -44,7 +44,7 @@ Audio is saved as Output.wav
 ---
 
 
-**🚀 Future Enhancements**
+**🚀 Future Enhancements:**
 
 Graphical User Interface (GUI)
 Pause & Resume recording
@@ -54,13 +54,13 @@ Noise reduction and audio filters
 Support for multiple audio formats
 ---
 
-**👩‍💻 Author**
+**👩‍💻 Author:**
 
 Manisha Debnath
 Student Developer | Python Enthusiast
 ---
 
-## ▶️ **How to Run the Project**
+## ▶️ **How to Run the Project:**
 
 ### 🔹 Step 1: Clone the Repository
 Open your terminal and run:
