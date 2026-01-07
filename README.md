@@ -4,7 +4,7 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 
 ---
 
-## 📌 **Key Features**
+## 📌 **Key Features:**
 - **Records real-time audio** from the system microphone  
 - **High-quality sound recording** (**44.1 kHz sample rate**)  
 - **Customizable recording duration**  
@@ -13,7 +13,7 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 
 ---
 
-## 🛠️ **Technologies Used**
+## 🛠️ **Technologies Used:**
 - **Python 3**
 - **sounddevice** – for audio recording
 - **scipy** – for saving WAV files
