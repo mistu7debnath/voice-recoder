@@ -46,12 +46,12 @@ Python 3 installed on your system
 
 **🚀 Future Enhancements:**
 
-Graphical User Interface (GUI)
-Pause & Resume recording
-Automatic file naming with timestamps
-Noise reduction and audio filters
+**Graphical User Interface (GUI)**
+**Pause & Resume recording**
+**Automatic file naming with timestamps**
+**Noise reduction and audio filters**
 
-Support for multiple audio formats
+**Support for multiple audio formats**
 ---
 
 **👩‍💻 Author:**
