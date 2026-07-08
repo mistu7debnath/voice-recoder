@@ -21,7 +21,7 @@ A **simple and efficient Python voice recorder** that captures audio from your s
 ---
 
 ## ⚙️ **How It Works:**
-- **Sets the sample rate** for clear audio quality  
+- **Sets the sample rate** how much you want for clear audio quality  
 - **Records audio for a fixed duration**
 - **Waits until recording completes**
 - **Exports the audio** as `Output.wav`
